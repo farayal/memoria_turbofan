@@ -6,7 +6,7 @@
 
 ##### Archivos:
 
-- **turbofan.ipynb:** Contiene código que permite generar features maps (muestras/samples) para training, validation y test set de datasets FD001, FD002, FD003, FD004 con time windows, optimizador, batch size, epochs deseado. Además permite entrenar modelos usando arquitectura de X. Li, Q. Ding, J. Sun, Remaining useful life estimation in prognostics using deep convolution neural network.
+- **turbofan.ipynb:** Contiene código que permite generar features maps (muestras/samples) para training, validation y test set de datasets FD001, FD002, FD003, FD004 con time windows, optimizador, batch size y epochs deseados. Además permite entrenar modelos usando arquitectura de X. Li, Q. Ding, J. Sun, Remaining useful life estimation in prognostics using deep convolution neural network.
 
 - **analisis_descriptivo_turbofan_faraya.ipynb:** Contiene análisis descriptivo previo de dataset turbofan tales como histogramas de cada dataset del training set (FD001,FD002, FD003 y FD004) y aplicación de PCA a cada uno de ellos.
 
