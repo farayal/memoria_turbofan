@@ -4,6 +4,8 @@
 #### Turbofan Engine Degradation Simulation Dataset
 #### Octubre 2020
 
+![alt text](https://cdn.pixabay.com/photo/2019/08/22/02/07/a-10-jet-engine-4422314_960_720.jpg)
+
 ##### Archivos:
 
 - **turbofan.ipynb:** Contiene código que permite generar features maps (muestras/samples) para training, validation y test set de datasets FD001, FD002, FD003, FD004 con time windows, optimizador, batch size y epochs deseados. Además permite entrenar modelos usando arquitectura de X. Li, Q. Ding, J. Sun, Remaining useful life estimation in prognostics using deep convolution neural network.
